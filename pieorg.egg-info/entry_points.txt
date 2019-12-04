@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        pieorg=pieorg.app:begin
+    
