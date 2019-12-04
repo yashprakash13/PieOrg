@@ -69,3 +69,6 @@ This app has some components that conflict with some conda keywords. Therefore, 
  ![Search](https://github.com/yashprakash13/PieOrg/blob/master/screen/d.png)
  
  
+ #### A big Thank you to:
+ * [Click](https://pypi.org/project/click8/)
+ * [Art](https://pypi.org/project/art/)
