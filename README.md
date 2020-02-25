@@ -1,5 +1,8 @@
 ## PieOrg 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)  
+<a href="https://pypi.org/project/pieorg/"><img alt="PyPI" src="https://img.shields.io/badge/PyPi-v1.0.2-green"></a>
+
 ### A python CLI app to organise every story you read on the internet!
 
 ### Get started:
