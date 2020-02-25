@@ -1,4 +1,5 @@
-## PieOrg
+## PieOrg 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ### A python CLI app to organise every story you read on the internet!
 
 ### Get started:
